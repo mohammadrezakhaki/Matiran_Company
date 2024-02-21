@@ -1,3 +1,3 @@
--- In the name of Allah
--- This is a test project for MetIran, written in Visual Studio 2022 and with .net6.
--- The database Scripts is available inside to the project.
+In the name of Allah
+--This is a test API project for MetIran company, written in Visual Studio 20022 environment and with .net6.
+The database is available inside to the project and Swagger package is also available inside to the project for API testing.  
